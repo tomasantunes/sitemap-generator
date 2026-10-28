@@ -5,5 +5,5 @@
 - Setup a cronjob:
 
 ```
-/usr/local/bin/php /home/USERNAME/sitemap-generator/generate-sitemap.php >> /home/USERNAME/sitemap-generator.log 2>&1
+/usr/local/bin/php /home/USERNAME/sitemap-generator/sitemap-generator.php >> /home/USERNAME/sitemap-generator.log 2>&1
 ```
